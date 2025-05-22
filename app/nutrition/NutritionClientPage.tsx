@@ -58,14 +58,15 @@ const NutritionClientPage = () => {
     <>
       <section className="bg-white py-16">
         <div className="container mx-auto px-4">
-          <motion.h1
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.75 }}
-            className="text-4xl font-bold text-center text-gray-800 mb-8"
-          >
-            Nourish Your Body, Enhance Your Healing
-          </motion.h1>
+      <motion.h1
+  initial={{ opacity: 0, y: -20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.75 }}
+  className="mt-8 text-4xl font-bold text-center text-gray-800 mb-8"
+>
+  Nourish Your Body, Enhance Your Healing
+</motion.h1>
+
 
           <motion.p
             initial={{ opacity: 0, y: -10 }}

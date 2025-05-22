@@ -10,25 +10,31 @@ export default function GallerySection() {
   const [selectedImage, setSelectedImage] = useState<string | null>(null)
 
   const galleryImages = [
-    {
-      src: "/gallery/award-ceremony.png",
-      alt: "Clinic Reception Area",
+
+      {
+      src: "/gallery/gallery Image 8.jpg",
+      alt: "Consultant Physiotherapist",
       category: "Clinic",
     },
     {
-      src: "/gallery/award-ceremony.png",
+      src: "/gallery/Consultant Area.jpg ",
+      alt: "Clinic Consultant Area ",
+      category: "Clinic",
+    },
+    {
+      src: "/gallery/treatment room.jpg",
       alt: "Treatment Room",
       category: "Clinic",
     },
     {
       src: "/gallery/gallery Image 9.jpg",
-      alt: "Physiotherapy Session",
+      alt: "Physiotherapy consultation",
       category: "Treatment",
     },
     {
-      src: "/gallery/award-ceremony.png",
-      alt: "Physiotherapy Equipment",
-      category: "Equipment",
+      src: "/gallery/gallery Image 6.jpg",
+      alt: "Back Pain Relief & Treatment",
+      category: "Clinic",
     },
     {
       src: "/gallery/gallery Image 4.jpg",
@@ -40,15 +46,11 @@ export default function GallerySection() {
       alt: "Patient Consultation",
       category: "Treatment",
     },
+  
     {
-      src: "/gallery/gallery Image 8.jpg",
-      alt: "Exercise Area",
+      src: "/gallery/WAITING AREA.jpg",
+      alt: "Waiting Area",
       category: "Clinic",
-    },
-    {
-      src: "/gallery/gallery Image 9.jpg",
-      alt: "Award Ceremony",
-      category: "Events",
     },
   ]
 

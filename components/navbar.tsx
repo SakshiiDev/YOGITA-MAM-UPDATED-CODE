@@ -72,6 +72,7 @@ export default function Navbar() {
     // { name: "Programs", href: "/programs" },
     // { name: "Shop", href: "/shop" },
     { name: "Library", href: "/library" },
+    
     { name: "Nutrition", href: "/nutrition" },
     { name: "Free Gift", href: "/gift" },
     // { name: "Contact", href: "/contact" },

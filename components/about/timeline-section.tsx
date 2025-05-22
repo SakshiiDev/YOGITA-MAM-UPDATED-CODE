@@ -39,9 +39,9 @@ export default function TimelineSection() {
   },
   {
     year: "2024",
-    title: "Certified Bach Remedy Practitioner (UK)",
+    title: " Bach Remedy (UK) Certified",
     description:
-      "Achieved certification as a Bach Remedy Practitioner from the UK.",
+      "Achieved UK certification in Bach Flower Remedies, showcasing skills in natural healing.",
     image: "/About/Bach Remedy Certification.webp",
   },
   ];

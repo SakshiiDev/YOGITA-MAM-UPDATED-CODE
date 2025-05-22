@@ -51,7 +51,7 @@ const ebooks = [
     price: 399,
     pages: 60,
     image: "/library/Recovery Strategies for Athletes.jpg",
-    category: "Sports Rehabilitation",
+    category: "Ortho Rehabilitation",
     slug: "athlete-recovery-strategies",
   },
   {

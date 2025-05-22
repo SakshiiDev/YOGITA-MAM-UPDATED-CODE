@@ -12,7 +12,7 @@ export default function BachFlowerRemediesPage() {
       <ServicePageTemplate
         title="Holistic Healing with Bach Flower Remedies"
         description="This gentle, non-invasive therapy supports emotional balance and mental well-being using personalized Bach Flower Remedies. Ideal for stress, anxiety, emotional overwhelm, or physical symptoms triggered by unresolved emotions."
-        image="/Online/image 3.jpg" // सुनिश्चित करें कि यह इमेज आपके public/services फ़ोल्डर में मौजूद है
+        image="/Online/image 3.webp" // सुनिश्चित करें कि यह इमेज आपके public/services फ़ोल्डर में मौजूद है
         benefits={[
           "Promotes emotional resilience and peace",
           "Supports recovery from trauma, anxiety, and sadness",

@@ -10,25 +10,25 @@ export default function ServiceApproach() {
     {
       title: "Personalized Assessment",
       description:
-        "We begin with a comprehensive evaluation to understand your unique condition, history, and goals before creating a tailored treatment plan.",
+        "Every journey begins with a thorough evaluation of your condition, medical history, and personal goals. This helps us design a treatment plan tailored specifically to your needs for effective, long-lasting results.",
       icon: <ClipboardCheck className="h-10 w-10 text-pink-500" />,
     },
     {
       title: "Patient-Centered Care",
       description:
-        "Your needs and preferences guide our approach. We listen carefully and involve you in every decision about your treatment journey.",
+        " Your goals, comfort, and preferences are at the heart of everything we do. We actively listen, respect your choices, and involve you in every step of your treatment journey.",
       icon: <UserCheck className="h-10 w-10 text-pink-500" />,
     },
     {
       title: "Evidence-Based Methods",
       description:
-        "Our treatment techniques are grounded in the latest research and clinical evidence, ensuring you receive the most effective care.",
+        " We use the latest research-backed techniques and clinically proven approaches to ensure you receive safe, effective, and up-to-date care.",
       icon: <TrendingUp className="h-10 w-10 text-pink-500" />,
     },
     {
       title: "Holistic Perspective",
       description:
-        "We consider all aspects of your health and lifestyle, addressing not just symptoms but the underlying causes of your condition.",
+        " We look beyond symptoms to understand the full picture—considering your physical health, daily habits, emotional well-being, and lifestyle. This comprehensive approach helps us address root causes and support lasting recovery.",
       icon: <Heart className="h-10 w-10 text-pink-500" />,
     },
   ]
@@ -64,9 +64,7 @@ export default function ServiceApproach() {
               <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Our Approach</h2>
               <div className="w-24 h-1 bg-pink-400 mb-6"></div>
               <p className="text-gray-600 mb-8">
-                Dr. Yogita's approach to physiotherapy combines clinical expertise with compassionate care. We believe
-                in treating the whole person, not just the symptoms, and empowering you with the knowledge and tools for
-                long-term health.
+                DR. YOGITA's Approach focuses on treating the root cause—not just the symptoms—while addressing the whole person: body, mind, and lifestyle. We empower you with the knowledge, support, and practical tools needed for lasting relief and long-term wellness.
               </p>
             </motion.div>
 

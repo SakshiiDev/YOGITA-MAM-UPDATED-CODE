@@ -52,7 +52,7 @@ export default function FooterSection() {
   const quickLinks = [
     { name: "Home", href: "/" },
     { name: "About", href: "/about" },
-    { name: "Services", href: "/services" },
+    // { name: "Blog", href: "/Blog" },
     // { name: "Centers", href: "/centers" },
     // { name: "Testimonials", href: "/testimonials" },
     { name: "Blog", href: "/blog" },
