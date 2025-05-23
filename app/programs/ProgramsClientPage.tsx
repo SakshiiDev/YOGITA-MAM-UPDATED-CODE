@@ -57,12 +57,12 @@ const programs = [
   },
   {
     id: 6,
-    title: "Sports Injury Prevention",
-    description: "Learn techniques to prevent common sports injuries and enhance your athletic performance.",
+    title: "Ortho Injury Prevention",
+    description: "Learn techniques to prevent common Ortho injuries and enhance your athletic performance.",
     price: 1699,
     duration: "38 min",
-    image: "/Sports Injury Prevention.jpg",
-    slug: "sports-injury-prevention",
+    image: "/Ortho Injury Prevention.jpg",
+    slug: "Ortho-injury-prevention",
   },
   {
     id: 7,

@@ -72,9 +72,10 @@ export default function Navbar() {
     // { name: "Programs", href: "/programs" },
     // { name: "Shop", href: "/shop" },
     { name: "Library", href: "/library" },
+    // { name: "E-Book Library", href: "/library" },
     
     { name: "Nutrition", href: "/nutrition" },
-    { name: "Free Gift", href: "/gift" },
+    // { name: "Free Gift", href: "/gift" },
     // { name: "Contact", href: "/contact" },
   ]
 
@@ -222,7 +223,7 @@ export default function Navbar() {
                   <div className="py-1">
                     {[
                       // { name: "Shop", href: "/shop" },
-                      { name: "Library", href: "/library" },
+                      { name: "E-Book Library", href: "/library" },
                       { name: "Nutrition", href: "/nutrition" },
                     ].map((item) => (
                       <Link

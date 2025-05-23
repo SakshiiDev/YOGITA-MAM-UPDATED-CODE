@@ -10,7 +10,7 @@ export default function TeamSection() {
       name: "Dr. Rajiv Kumar",
       role: "Senior Physiotherapist",
       image: "/indian-man-headshot.png",
-      specialization: "Sports Injuries & Rehabilitation",
+      specialization: "Ortho Injuries & Rehabilitation",
       experience: "15+ years",
       social: {
         facebook: "#",

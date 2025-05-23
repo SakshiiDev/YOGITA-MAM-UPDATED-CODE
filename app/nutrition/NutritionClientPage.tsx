@@ -32,14 +32,14 @@ const nutritionPlans = [
   },
   {
     id: 3,
-    title: "Sports Recovery Meal Plan",
+    title: "Ortho Recovery Meal Plan",
     description:
       "Optimize your recovery with proper nutrition timing and food choices for athletes and active individuals.",
     price: 599,
     pages: 30,
-    image: "/nutrition/sports-recovery-nutrition.jpg",
-    category: "Sports Nutrition",
-    slug: "sports-recovery-nutrition",
+    image: "/nutrition/Ortho-recovery-nutrition.jpg",
+    category: "Ortho Nutrition",
+    slug: "Ortho-recovery-nutrition",
   },
   {
     id: 4,

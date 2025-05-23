@@ -1308,7 +1308,7 @@ If you’re struggling with chronic pain, incorporating these natural remedies i
   ---
   
   **Step 1: Know Yourself, Know Your Pain**
-  Start by understanding your condition – whether it's a nagging backache, post-surgery recovery, or a sports injury. Jot down symptoms, pain levels, and your goals like “increased mobility” or “reduced pain.”
+  Start by understanding your condition – whether it's a nagging backache, post-surgery recovery, or a Ortho injury. Jot down symptoms, pain levels, and your goals like “increased mobility” or “reduced pain.”
   
   **Step 2: Why Dr. Yogita? Because Results Matter!**
   - **Proven Expertise**: Licensed, experienced, and highly effective.

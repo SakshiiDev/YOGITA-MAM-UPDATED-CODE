@@ -60,7 +60,7 @@ export default function GiftPage() {
               <div className="absolute -inset-4 bg-gradient-to-r from-pink-200 to-yellow-200 rounded-2xl blur-lg opacity-70 -z-10"></div>
               <div className="rounded-xl overflow-hidden shadow-xl">
                 <Image
-                  src="/gift image.webp"
+                  src="/gift image.jpg"
                   alt="Digital Gift"
                   width={600}
                   height={400}

@@ -21,7 +21,7 @@ export default function LifespanPhysioCarePage() {
           "Builds confidence across all age groups",
         ]}
         longDescription={`
-          <p>“Lifespan PhysioCare” is tailored to the unique needs of three vital age groups—children, adolescents, and seniors. For kids, the focus is on motor development, balance, and coordination. For teens, it’s postural correction, sports injury prevention, and screen-time management.</p>
+          <p>“Lifespan PhysioCare” is tailored to the unique needs of three vital age groups—children, adolescents, and seniors. For kids, the focus is on motor development, balance, and coordination. For teens, it’s postural correction, Ortho injury prevention, and screen-time management.</p>
           
           <p>For seniors, therapy addresses fall prevention, joint flexibility, and muscle strength. Each session is crafted to align with age-related physical demands and capabilities, promoting overall well-being at every stage of life.</p>
         `}

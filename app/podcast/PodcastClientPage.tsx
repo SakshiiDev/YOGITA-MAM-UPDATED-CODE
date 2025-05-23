@@ -53,7 +53,7 @@ export default function PodcastClientPage() {
           {/* Episode Card 2 */}
           <div className="rounded-lg border border-gray-200 bg-white shadow-md">
             <Image
-              src="/Sports Injuries.jpg"
+              src="/Ortho Injuries.jpg"
               alt="Episode 2"
               width={500}
               height={300}
@@ -61,10 +61,10 @@ export default function PodcastClientPage() {
             />
             <div className="p-5">
               <h3 className="mb-2 text-xl font-semibold tracking-tight text-gray-900">
-                Episode 2: The Role of Physiotherapy in Sports Injuries
+                Episode 2: The Role of Physiotherapy in Ortho Injuries
               </h3>
               <p className="mb-3 font-normal text-gray-700">
-                Explore how physiotherapy aids in the recovery and prevention of sports-related injuries.
+                Explore how physiotherapy aids in the recovery and prevention of Ortho-related injuries.
               </p>
               <div className="mb-3 flex items-center gap-2 text-sm text-gray-500">
                 <Calendar className="h-4 w-4" />

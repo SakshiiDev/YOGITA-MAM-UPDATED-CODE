@@ -25,11 +25,11 @@ export default function RehabilitationPage() {
         longDescription={`
           <p>Rehabilitation is a specialized process that helps individuals recover from injuries, surgeries, or medical conditions that have affected their physical function. The goal of rehabilitation is to restore movement and function, reduce pain, and improve overall quality of life.</p>
           
-          <p>At Dr. Yogita Physiotherapy Clinic, our rehabilitation programs are comprehensive and individualized, addressing the unique needs of each patient. We work with people of all ages and abilities, from athletes recovering from sports injuries to older adults managing chronic conditions.</p>
+          <p>At Dr. Yogita Physiotherapy Clinic, our rehabilitation programs are comprehensive and individualized, addressing the unique needs of each patient. We work with people of all ages and abilities, from athletes recovering from Ortho injuries to older adults managing chronic conditions.</p>
           
           <p>Our approach to rehabilitation combines therapeutic exercises, manual therapy, modalities, and education to help you achieve your recovery goals. We focus not just on treating the immediate symptoms but on addressing the underlying causes and preventing future issues.</p>
           
-          <p>Whether you're recovering from a joint replacement, managing a neurological condition, or rehabilitating after a sports injury, our expert team will guide you through every step of your recovery journey.</p>
+          <p>Whether you're recovering from a joint replacement, managing a neurological condition, or rehabilitating after a Ortho injury, our expert team will guide you through every step of your recovery journey.</p>
         `}
         process={[
           {
